@@ -35,7 +35,7 @@ module "vpc_infra1" {
 #   coin_ws_endpoint = var.coin_ws_endpoint
 #   coin_rest_endpoint = var.coin_rest_endpoint
 #   coin_auth_key = var.coin_auth_key
-
+#
 #   core_region = var.core_region
 #   ecr_region = var.ecr_region
 #   core_vpc_id = var.core_vpc_id
